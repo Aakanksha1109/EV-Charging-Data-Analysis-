@@ -1,0 +1,36 @@
+Charging Station ID,Location,Date,Total Sessions,Average Session Duration (mins),Peak Usage Time,Peak Usage Count,Revenue Generated ($),Competitor Presence,Competitor Name,Customer Demographics,Customer Feedback,Market Trends,Competitive Pricing,Customer Preferences,Expansion Opportunities,Potential Challenges
+CS001,Connaught Place,45383,35,45,Evening,10,300,Yes,EVCharge,"Urban, Middle-class",Positive,Growing,Competitive,Fast Charging,Nearby Cities,High Initial Investment
+CS002,South Extension,45384,40,50,Morning,12,350,No,-,"Suburban, Upper-class",Neutral,Stable,Moderate,Regular Charging,Local Communities,Limited Parking Space
+CS003,Cyber Hub,45385,45,55,Afternoon,15,400,Yes,PowerUp,"Urban, Young adults",Positive,Growing,Competitive,Fast Charging,Corporate Hubs,Technological Obsolescence
+CS004,Indira Gandhi Airport,45386,50,60,Evening,18,450,Yes,PlugNPlay,"Tourists, Travelers",Positive,Growing,High,Convenience,Tourist Destinations,Seasonal Fluctuations
+CS005,DLF Cyber City,45387,55,50,Morning,20,500,Yes,VoltCharge,"Urban, Business Execs",Negative,Declining,Moderate,Luxury Charging,Business Districts,Limited Space for Expansion
+CS006,India Gate,45388,60,45,Evening,22,550,No,-,"Urban, Families",Positive,Stable,Low,Regular Charging,Recreational Areas,Environmental Regulations
+CS007,Saket,45389,65,55,Afternoon,25,600,Yes,SwiftCharge,"Suburban, Commuters",Neutral,Stable,High,Fast Charging,Residential Areas,Network Congestion
+CS008,Dwarka,45390,70,60,Morning,28,650,No,-,"Suburban, Families",Positive,Growing,Moderate,Regular Charging,Residential Areas,High Competition
+CS009,Nehru Place,45391,75,50,Evening,30,700,Yes,EcoPower,"Urban, Techies",Positive,Growing,Competitive,Fast Charging,Tech Hubs,Rapid Technological Advancements
+CS010,Janakpuri,45392,80,45,Morning,32,750,Yes,GreenCharge,"Suburban, Middle-class",Negative,Declining,Moderate,Regular Charging,Residential Areas,Limited Accessibility
+CS011,Rajpath,45393,85,55,Evening,35,800,No,-,"Urban, Tourists",Positive,Growing,Low,Convenience,Tourist Destinations,Seasonal Variability
+CS012,Okhla Industrial Area,45394,90,60,Afternoon,38,850,Yes,EnergySaver,"Industrial, Workers",Neutral,Stable,High,Regular Charging,Industrial Zones,Energy Demand Spikes
+CS013,Hauz Khas,45395,95,50,Evening,40,900,Yes,ChargeNgo,"Urban, Young adults",Negative,Declining,Competitive,Fast Charging,Recreational Areas,Limited Infrastructure
+CS014,Chandni Chowk,45396,100,45,Morning,42,950,No,-,"Urban, Shoppers",Positive,Growing,Moderate,Regular Charging,Commercial Districts,Traffic Congestion
+CS015,Greater Kailash,45397,105,55,Evening,45,1000,Yes,ZapCharge,"Urban, Affluent",Positive,Stable,Low,Luxury Charging,Residential Areas,High Installation Costs
+CS016,Rohini,45398,110,60,Afternoon,48,1050,Yes,PowerUp,"Suburban, Families",Positive,Growing,Competitive,Regular Charging,Residential Areas,Limited Space for Expansion
+CS017,Karol Bagh,45399,115,50,Evening,50,1100,No,-,"Urban, Shoppers",Positive,Growing,High,Convenience,Commercial Districts,Competition from Local Players
+CS018,Lajpat Nagar,45400,120,45,Morning,52,1150,Yes,SwiftCharge,"Urban, Middle-class",Neutral,Stable,Moderate,Regular Charging,Residential Areas,Limited Space for Expansion
+CS019,Mayur Vihar,45401,125,55,Evening,55,1200,Yes,EVBoost,"Suburban, Techies",Negative,Declining,Low,Convenience,Tech Hubs,Rapid Technological Advancements
+CS020,Rohini,45402,130,60,Afternoon,58,1250,No,-,"Suburban, Families",Positive,Growing,Competitive,Regular Charging,Residential Areas,Limited Space for Expansion
+CS021,Dwarka Sector 10,45403,135,50,Evening,60,1300,Yes,VoltCharge,"Urban, Families",Positive,Growing,High,Fast Charging,Residential Areas,High Installation Costs
+CS022,INA Market,45404,140,45,Morning,62,1350,Yes,ChargeHub,"Urban, Shoppers",Positive,Stable,Low,Regular Charging,Commercial Districts,Traffic Congestion
+CS023,Connaught Place,45405,145,55,Evening,65,1400,No,-,"Urban, Tourists",Positive,Growing,Moderate,Convenience,Tourist Destinations,Seasonal Variability
+CS024,South Extension,45406,150,60,Afternoon,68,1450,Yes,PowerUp,"Urban, Affluent",Neutral,Stable,Competitive,Regular Charging,Residential Areas,Limited Accessibility
+CS025,Cyber Hub,45407,155,50,Evening,70,1500,Yes,SwiftCharge,"Urban, Techies",Positive,Growing,High,Fast Charging,Tech Hubs,Rapid Technological Advancements
+CS026,Indira Gandhi Airport,45408,160,45,Morning,72,1550,No,-,"Tourists, Travelers",Positive,Growing,Moderate,Convenience,Tourist Destinations,Seasonal Fluctuations
+CS027,DLF Cyber City,45409,165,55,Evening,75,1600,Yes,GreenCharge,"Urban, Business Execs",Negative,Declining,Low,Regular Charging,Business Districts,Limited Space for Expansion
+CS028,India Gate,45410,170,60,Afternoon,78,1650,No,-,"Urban, Families",Positive,Growing,Competitive,Regular Charging,Recreational Areas,Limited Infrastructure
+CS029,Saket,45411,175,50,Evening,80,1700,Yes,EcoPower,"Suburban, Commuters",Positive,Growing,High,Fast Charging,Residential Areas,Network Congestion
+CS030,Dwarka,45412,180,45,Morning,82,1750,Yes,VoltCharge,"Urban, Middle-class",Neutral,Stable,Moderate,Regular Charging,Residential Areas,Limited Space for Expansion
+CS031,Nehru Place,45413,185,55,Evening,85,1800,Yes,ChargeNgo,"Urban, Young adults",Positive,Growing,Competitive,Fast Charging,Corporate Hubs,Technological Obsolescence
+CS032,Janakpuri,45414,190,60,Afternoon,88,1850,No,-,"Suburban, Families",Positive,Growing,Low,Regular Charging,Residential Areas,Limited Space for Expansion
+CS033,Rajpath,45415,195,50,Evening,90,1900,Yes,ZapCharge,"Urban, Affluent",Negative,Declining,High,Luxury Charging,Commercial Districts,High Installation Costs
+CS034,Okhla Industrial Area,45416,200,45,Morning,92,1950,Yes,EVBoost,"Industrial, Workers",Positive,Growing,Moderate,Regular Charging,Industrial Zones,Energy Demand Spikes
+CS035,Hauz Khas,45417,205,55,Evening,95,2000,No,-,"Urban, Young adults",Positive,Growing,Competitive,Fast Charging,Recreational Areas,Limited Infrastructure

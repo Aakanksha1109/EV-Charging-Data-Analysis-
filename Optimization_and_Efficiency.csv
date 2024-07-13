@@ -1,0 +1,36 @@
+Charging Station ID,Location,Date,Total Sessions,Average Session Duration (mins),Peak Usage Time,Peak Usage Count,Revenue Generated ($),Energy Consumed (kWh),Average Charging Speed (kW),Average Session Cost ($),Payment Method,User Satisfaction Rating (out of 10),Charging Mode,Distance Traveled (km),Age Range,Gender,Vehicle Type,Charging Frequency (times per week),Favorite Charging Time,Favorite Charging Location,Efficiency Score (%),Optimization Opportunities,Efficiency Challenges
+CS001,Connaught Place,45383,35,45,Evening,10,300,800,22.8,8.57,Credit Card,8,Fast,35,18-24,Male,Electric Car,5,Afternoon,Shopping Mall,85,Optimize peak time charging,Limited charging stations
+CS002,South Extension,45384,40,50,Morning,12,350,900,23.3,8.75,Debit Card,7,Normal,40,25-35,Female,Electric Car,4,Morning,Office,78,Improve charging speed,High energy costs
+CS003,Cyber Hub,45385,45,55,Afternoon,15,400,950,21.1,8.88,Mobile Wallet,9,Fast,50,35-45,Male,Electric Car,6,Evening,Home,92,Implement dynamic pricing,Infrastructure limitations
+CS004,Indira Gandhi Airport,45386,50,60,Evening,18,450,1000,20,9,Debit Card,8,Normal,45,18-24,Female,Electric Bike,3,Morning,Park,80,Upgrade charging infrastructure,Inconsistent charging speed
+CS005,DLF Cyber City,45387,55,50,Morning,20,500,1050,19.2,9.09,Credit Card,7,Fast,60,25-35,Male,Electric Car,5,Afternoon,Shopping Mall,85,Increase charging stations,Compatibility issues
+CS006,India Gate,45388,60,45,Evening,22,550,1100,23.7,9.23,Mobile Wallet,9,Normal,55,35-45,Female,Electric Car,6,Evening,Home,90,Optimize energy usage,Limited charging speed
+CS007,Saket,45389,65,55,Afternoon,25,600,1150,21.5,9.38,Debit Card,8,Fast,70,45-55,Male,Electric Car,7,Morning,Office,88,Introduce smart charging,High maintenance costs
+CS008,Dwarka,45390,70,60,Morning,28,650,1200,22.1,9.5,Credit Card,7,Normal,65,18-24,Female,Electric Car,5,Evening,Tourist Spot,82,Implement demand forecasting,Limited charging points
+CS009,Nehru Place,45391,75,50,Evening,30,700,1250,18.8,9.63,Mobile Wallet,9,Fast,80,25-35,Male,Electric Car,6,Afternoon,Work,90,Upgrade to fast charging,Charging station downtime
+CS010,Janakpuri,45392,80,45,Morning,32,750,1300,20.6,9.75,Debit Card,8,Normal,75,35-45,Female,Electric Car,7,Evening,Shopping Mall,85,Implement energy storage,Inconsistent charging speed
+CS011,Rajpath,45393,85,55,Evening,35,800,1350,21.8,9.88,Credit Card,7,Fast,90,18-24,Male,Electric Bike,3,Morning,Park,80,Introduce solar charging,Limited space for expansion
+CS012,Okhla Industrial Area,45394,90,60,Afternoon,38,850,1400,20.4,10,Mobile Wallet,8,Normal,85,25-35,Female,Electric Car,5,Evening,Home,85,Optimize charging schedules,High energy consumption
+CS013,Hauz Khas,45395,95,50,Evening,40,900,1450,19,10.13,Debit Card,9,Fast,100,35-45,Male,Electric Car,6,Morning,Office,88,Upgrade to high-speed chargers,Limited infrastructure
+CS014,Chandni Chowk,45396,100,45,Morning,42,950,1500,21.2,10.25,Credit Card,7,Normal,110,45-55,Female,Electric Car,7,Afternoon,Shopping Mall,90,Implement remote monitoring,Compatibility issues
+CS015,Greater Kailash,45397,105,55,Evening,45,1000,1550,22.7,10.38,Mobile Wallet,9,Fast,120,18-24,Male,Electric Car,5,Evening,Home,85,Optimize charging infrastructure,Inconsistent charging speed
+CS016,Rohini,45398,110,60,Afternoon,48,1050,1600,20.8,10.5,Debit Card,8,Normal,130,25-35,Female,Electric Car,6,Morning,Park,82,Implement energy-efficient solutions,High energy costs
+CS017,Karol Bagh,45399,115,50,Evening,50,1100,1650,19.5,10.63,Credit Card,7,Fast,140,35-45,Male,Electric Car,7,Afternoon,Shopping Mall,90,Upgrade to smart charging,Compatibility issues
+CS018,Lajpat Nagar,45400,120,45,Morning,52,1150,1700,22.5,10.75,Mobile Wallet,9,Fast,150,45-55,Female,Electric Car,5,Evening,Home,85,Optimize peak time charging,Limited charging points
+CS019,Mayur Vihar,45401,125,55,Evening,55,1200,1750,20,10.88,Debit Card,8,Normal,160,18-24,Male,Electric Car,6,Morning,Office,88,Implement dynamic pricing,High maintenance costs
+CS020,Rohini,45402,130,60,Afternoon,58,1250,1800,21.2,11,Credit Card,7,Fast,170,25-35,Female,Electric Car,7,Afternoon,Park,90,Upgrade to fast charging,Limited infrastructure
+CS021,Dwarka Sector 10,45403,135,50,Evening,60,1300,1850,19.8,11.13,Mobile Wallet,9,Normal,180,35-45,Male,Electric Car,5,Evening,Shopping Mall,85,Introduce energy-saving features,Inconsistent charging speed
+CS022,INA Market,45404,140,45,Morning,62,1350,1900,22,11.25,Debit Card,8,Fast,190,45-55,Female,Electric Car,6,Morning,Home,82,Implement energy-efficient solutions,High energy consumption
+CS023,Connaught Place,45405,145,55,Evening,65,1400,1950,20.5,11.38,Credit Card,7,Fast,200,18-24,Male,Electric Car,7,Evening,Shopping Mall,90,Optimize energy usage,Limited charging points
+CS024,South Extension,45406,150,60,Afternoon,68,1450,2000,21.8,11.5,Mobile Wallet,9,Normal,210,25-35,Female,Electric Car,5,Afternoon,Park,88,Upgrade to high-speed chargers,Limited charging stations
+CS025,Cyber Hub,45407,155,50,Evening,70,1500,2050,19,11.63,Debit Card,8,Fast,220,35-45,Male,Electric Car,6,Morning,Office,90,Implement energy-efficient solutions,Inconsistent charging speed
+CS026,Indira Gandhi Airport,45408,160,45,Morning,72,1550,2100,20.3,11.75,Credit Card,7,Fast,230,18-24,Female,Electric Car,7,Evening,Shopping Mall,85,Optimize peak time charging,Limited charging points
+CS027,DLF Cyber City,45409,165,55,Evening,75,1600,2150,21.5,11.88,Mobile Wallet,9,Normal,240,25-35,Male,Electric Car,5,Afternoon,Home,88,Upgrade to smart charging,High energy consumption
+CS028,India Gate,45410,170,60,Afternoon,78,1650,2200,22,12,Debit Card,8,Fast,250,35-45,Female,Electric Car,6,Morning,Shopping Mall,90,Implement demand forecasting,Limited charging stations
+CS029,Saket,45411,175,50,Evening,80,1700,2250,20.8,12.13,Credit Card,7,Fast,260,45-55,Male,Electric Car,7,Evening,Office,85,Optimize charging schedules,Compatibility issues
+CS030,Dwarka,45412,180,45,Morning,82,1750,2300,21.2,12.25,Mobile Wallet,9,Normal,270,18-24,Female,Electric Car,5,Afternoon,Park,88,Upgrade to fast charging,Inconsistent charging speed
+CS031,Nehru Place,45413,185,55,Evening,85,1800,2350,20.5,12.38,Debit Card,8,Fast,280,25-35,Male,Electric Car,6,Morning,Shopping Mall,90,Implement energy-saving features,Limited infrastructure
+CS032,Janakpuri,45414,190,60,Afternoon,88,1850,2400,21.8,12.5,Credit Card,7,Fast,290,35-45,Female,Electric Car,7,Evening,Home,85,Optimize peak time charging,High maintenance costs
+CS033,Rajpath,45415,195,50,Evening,90,1900,2450,19.8,12.63,Mobile Wallet,9,Normal,300,18-24,Male,Electric Bike,3,Afternoon,Park,88,Upgrade to high-speed chargers,Limited charging stations
+CS034,Okhla Industrial Area,45416,200,45,Morning,92,1950,2500,22.1,12.75,Debit Card,8,Fast,310,25-35,Female,Electric Car,5,Morning,Office,90,Implement energy-efficient solutions,Inconsistent charging speed
+CS035,Hauz Khas,45417,205,55,Evening,95,2000,2550,21.2,12.88,Credit Card,7,Fast,320,35-45,Male,Electric Car,6,Evening,Shopping Mall,85,Optimize charging infrastructure,Limited charging stations

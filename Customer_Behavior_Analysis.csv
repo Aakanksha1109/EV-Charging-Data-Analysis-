@@ -1,0 +1,36 @@
+Charging Station ID,Location,Date,User ID,Charging Time (mins),Energy Consumed (kWh),Session Cost ($),Payment Method,Satisfaction Rating,Charging Speed (kW),Charging Mode,Distance Travelled (km),Age Range,Gender,Vehicle Type,Charging Frequency (per month),Favorite Charging Time,Favorite Charging Location
+CS001,Connaught Place,45383,1001,60,15.3,10,Credit Card,4,10,Normal,50,25-35,Male,Electric Car,5,Evening,Office
+CS002,South Extension,45384,1002,45,12.8,8,Debit Card,3,8,Fast,40,35-45,Female,Hybrid Car,4,Morning,Home
+CS003,Cyber Hub,45385,1003,75,20.5,15,Mobile Wallet,5,12,Normal,60,18-24,Male,Electric Bike,6,Afternoon,Work
+CS004,Indira Gandhi Airport,45386,1004,90,25.2,20,Credit Card,5,16,Fast,80,45-55,Female,Electric Car,3,Evening,Airport
+CS005,DLF Cyber City,45387,1005,60,18.7,12,Debit Card,4,10,Normal,55,25-35,Male,Electric Car,5,Morning,Office
+CS006,India Gate,45388,1006,30,8.9,6,Mobile Wallet,3,6,Fast,35,18-24,Female,Electric Bike,3,Evening,Park
+CS007,Saket,45389,1007,45,14.6,10,Credit Card,4,8,Normal,45,35-45,Male,Electric Car,4,Afternoon,Shopping Mall
+CS008,Dwarka,45390,1008,60,17.8,12,Debit Card,4,10,Normal,50,25-35,Female,Electric Car,5,Morning,Home
+CS009,Nehru Place,45391,1009,90,24.3,18,Mobile Wallet,5,16,Fast,65,35-45,Male,Electric Car,6,Evening,Work
+CS010,Janakpuri,45392,1010,45,13.2,10,Credit Card,3,8,Normal,40,18-24,Female,Electric Bike,4,Afternoon,Park
+CS011,Rajpath,45393,1011,75,21.9,15,Debit Card,4,12,Normal,60,45-55,Male,Electric Car,5,Evening,Tourist Spot
+CS012,Okhla Industrial Area,45394,1012,60,16.5,12,Mobile Wallet,3,10,Normal,55,25-35,Female,Electric Car,4,Morning,Office
+CS013,Hauz Khas,45395,1013,30,9.8,6,Credit Card,2,6,Fast,35,18-24,Male,Electric Bike,3,Evening,Park
+CS014,Chandni Chowk,45396,1014,60,17.6,12,Debit Card,4,10,Normal,50,35-45,Female,Electric Car,5,Afternoon,Shopping Mall
+CS015,Greater Kailash,45397,1015,90,22.1,18,Mobile Wallet,5,14,Fast,65,25-35,Male,Electric Car,6,Evening,Home
+CS016,Rohini,45398,1016,45,12.4,10,Credit Card,3,8,Normal,40,18-24,Female,Electric Bike,4,Morning,Work
+CS017,Karol Bagh,45399,1017,75,20,15,Debit Card,4,12,Normal,60,35-45,Male,Electric Car,5,Evening,Home
+CS018,Lajpat Nagar,45400,1018,60,18.2,12,Mobile Wallet,4,10,Normal,55,25-35,Female,Electric Car,5,Afternoon,Shopping Mall
+CS019,Mayur Vihar,45401,1019,30,8.9,6,Credit Card,3,6,Fast,35,18-24,Male,Electric Bike,3,Evening,Park
+CS020,Rohini,45402,1020,90,23.5,18,Debit Card,5,16,Fast,70,35-45,Female,Electric Car,6,Morning,Office
+CS021,Dwarka Sector 10,45403,1021,60,16.8,12,Mobile Wallet,4,10,Normal,60,25-35,Male,Electric Car,5,Evening,Home
+CS022,INA Market,45404,1022,45,13.4,10,Credit Card,3,8,Normal,45,18-24,Female,Electric Car,4,Morning,Shopping Mall
+CS023,Connaught Place,45405,1023,75,21.7,15,Debit Card,4,12,Normal,65,35-45,Male,Electric Car,5,Afternoon,Work
+CS024,South Extension,45406,1024,60,17.2,12,Mobile Wallet,4,10,Normal,55,25-35,Female,Electric Car,5,Evening,Shopping Mall
+CS025,Cyber Hub,45407,1025,90,24.6,18,Credit Card,5,16,Fast,70,45-55,Male,Electric Car,6,Morning,Office
+CS026,Indira Gandhi Airport,45408,1026,30,8.5,6,Debit Card,3,6,Fast,35,18-24,Female,Electric Bike,3,Evening,Airport
+CS027,DLF Cyber City,45409,1027,45,14.9,10,Mobile Wallet,4,8,Normal,50,25-35,Male,Electric Car,5,Afternoon,Work
+CS028,India Gate,45410,1028,60,16.3,12,Credit Card,4,10,Normal,55,35-45,Female,Electric Car,5,Evening,Tourist Spot
+CS029,Saket,45411,1029,75,19.8,15,Debit Card,4,12,Normal,60,25-35,Male,Electric Car,6,Morning,Shopping Mall
+CS030,Dwarka,45412,1030,90,23.2,18,Mobile Wallet,5,16,Fast,65,45-55,Female,Electric Car,7,Evening,Home
+CS031,Nehru Place,45413,1031,60,18.9,12,Credit Card,4,10,Normal,55,35-45,Male,Electric Car,6,Afternoon,Work
+CS032,Janakpuri,45414,1032,30,9.6,6,Debit Card,3,6,Fast,35,25-35,Female,Electric Bike,3,Morning,Park
+CS033,Rajpath,45415,1033,45,13,10,Mobile Wallet,4,8,Normal,45,18-24,Male,Electric Car,4,Evening,Tourist Spot
+CS034,Okhla Industrial Area,45416,1034,75,22.4,15,Credit Card,4,12,Normal,60,35-45,Female,Electric Car,5,Morning,Office
+CS035,Hauz Khas,45417,1035,60,16.7,12,Debit Card,3,10,Normal,55,25-35,Male,Electric Car,6,Evening,Home
